@@ -1,0 +1,32 @@
+label{
+    display: block;
+}
+
+html {
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* * {
+    box-sizing: inherit;
+} */
+
+body{
+    width: 90%;
+    max-width: 800px;
+    padding: 20px;
+    margin: 50px auto;
+
+
+}
+
+h1,p{
+    text-align:center;
+}
+
+input{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
